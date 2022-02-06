@@ -1,0 +1,78 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Kolker+Brush&family=Lato:wght@400;700;900&family=Marck+Script&family=Monoton&family=Press+Start+2P&family=Syne+Tactile&family=Underdog&display=swap');
+
+nav{
+    font-family: 'Underdog', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 300px;
+    color: aqua;
+}
+img{
+    padding: 5%;
+}
+h1{
+    font-family: 'Marck Script', cursive;
+    font-weight: 400;
+    font-size: 46px;
+    color: darkmagenta;
+    padding: 30px 30px 30px 100px;
+}
+h2{ 
+    font-family: 'Marck Script', cursive;
+    font-weight: 400;
+    font-size: 46px;
+    color: darkmagenta;
+    padding: 30px 30px 30px 100px;
+    
+}
+.text{
+    font-family: 'Comforter', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    color: brown;
+}
+p{
+    font-family: 'Syne Tactile', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    color: darkgreen;
+    padding: 0px 30px 0px 100px;
+}
+.name{
+    margin: 0 0 0 auto;
+    color: darkgoldenrod;
+}
+#wow{
+    width: 600px;
+    color: blue;
+    font-family: 'Marck Script', cursive;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+}
+#we{
+    font-family: Press Start ;
+    font-weight: 400;
+    overflow: scroll;
+    max-height: 100px;
+    width: 600px;
+    color: hotpink;
+}
+#zero{
+    max-width: 800px;
+    color: firebrick;
+    margin: 20px auto;
+}
+
+
